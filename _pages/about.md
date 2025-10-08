@@ -29,7 +29,7 @@ I’m fortunate to be mentored by **Professor [Jianglong Qin](http://www.sei.ynu
 
 - Collaborated with the **President of an Intermediate People’s Court**; our system received multiple letters of recommendation.
 - Sep 2025: **National Social Science Fund of China (NSSFC)** project officially approved —  
-  *“An Empirical Study on the Mechanism of Judicial Justice in the Digital‑Intelligence Era under Socialism with Chinese Characteristics.”*
+  *“An Empirical Study on the Mechanism of Judicial Justice in the Digital‑Intelligence Era under Socialism with Chinese Characteristics.”* - number:25CFX009
 
 **GitHub — 160★ Project**
 
